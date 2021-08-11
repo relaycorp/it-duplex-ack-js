@@ -1,2 +1,3 @@
-# it-duplex-ack-js
-Node.js duplex stream for protocols where one peer sends messages that should be acknowledged by the other peer
+# `it-duplex-ack`
+
+Create source/sink iterables for a duplex stream where each message should be acknowledged.
